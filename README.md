@@ -1,6 +1,8 @@
 # Regular-API-scraping
 
-Used requests
+Used package:
+
+requests
 
 pandas as pd
 
